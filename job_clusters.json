@@ -1,0 +1,62 @@
+[
+  {
+    "field": "Information Technology",
+    "roles": ["Python Developer", "Frontend Developer", "Machine Learning Engineer", "DevOps Engineer"],
+    "skills": ["python", "java", "sql", "html", "css", "javascript", "git", "django", "flask", "react", "node", "devops", "docker", "linux", "nlp", "machine learning", "deep learning"]
+  },
+  {
+    "field": "Marketing",
+    "roles": ["Digital Marketer", "SEO Analyst", "Social Media Manager"],
+    "skills": ["seo", "social media", "marketing", "analytics", "excel", "branding", "google ads", "facebook ads", "campaign"]
+  },
+  {
+    "field": "Education",
+    "roles": ["Math Teacher", "Science Tutor", "Computer Instructor"],
+    "skills": ["teaching", "classroom", "communication", "lesson planning", "subject knowledge", "education", "students"]
+  },
+  {
+    "field": "Design",
+    "roles": ["Graphic Designer", "UI/UX Designer"],
+    "skills": ["photoshop", "illustrator", "figma", "creativity", "adobe", "user interface", "user experience", "wireframe"]
+  },
+  {
+    "field": "Finance",
+    "roles": ["Accountant", "Finance Analyst", "Tax Consultant"],
+    "skills": ["excel", "accounting", "tally", "finance", "audit", "tax", "gst", "budget"]
+  },
+  {
+    "field": "Sales",
+    "roles": ["Sales Executive", "Business Development Manager", "Field Sales Officer"],
+    "skills": ["sales", "negotiation", "communication", "crm", "presentation", "lead generation", "cold calling"]
+  },
+  {
+    "field": "Healthcare",
+    "roles": ["Nurse", "Medical Assistant", "Pharmacist", "Lab Technician"],
+    "skills": ["healthcare", "medicine", "patient", "hospital", "nursing", "blood", "clinical", "surgery"]
+  },
+  {
+    "field": "Human Resources",
+    "roles": ["HR Executive", "Recruiter", "Talent Acquisition Specialist"],
+    "skills": ["hr", "recruitment", "interview", "screening", "onboarding", "employee management", "excel"]
+  },
+  {
+    "field": "Law",
+    "roles": ["Legal Advisor", "Advocate", "Compliance Officer"],
+    "skills": ["law", "legal", "case", "court", "compliance", "contracts", "regulations"]
+  },
+  {
+    "field": "Content Writing",
+    "roles": ["Content Writer", "Copywriter", "Blog Writer"],
+    "skills": ["writing", "content", "seo", "grammar", "editing", "creativity", "wordpress", "blog"]
+  },
+  {
+    "field": "Hospitality",
+    "roles": ["Hotel Manager", "Chef", "Front Office Executive"],
+    "skills": ["hospitality", "customer service", "hotel", "restaurant", "guest", "cooking", "housekeeping"]
+  },
+  {
+    "field": "Engineering",
+    "roles": ["Mechanical Engineer", "Civil Engineer", "Electrical Engineer"],
+    "skills": ["autocad", "design", "blueprint", "construction", "engineering", "load", "electrical", "mechanical", "civil"]
+  }
+]
