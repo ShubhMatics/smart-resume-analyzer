@@ -3,3 +3,5 @@ AI-powered Resume Analyzer built with Streamlit. Upload your resume (PDF), and g
 # 📄 Smart Resume Analyzer
 
 A Streamlit-based web app that analyzes resumes and suggests the most suitable career fields and roles based on extracted skills.
+
+https://smart-resume-analyzer-bcagmvcgunjkeygmxrhygv.streamlit.app
